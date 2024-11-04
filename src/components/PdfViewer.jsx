@@ -8,7 +8,7 @@ const SimplePDFViewer = () => {
         {/* <div className="h-[calc(100%-60px)]"> */}
         <div className="h-full">
           <iframe
-            src="/src/assets/sample_pdf.pdf"
+            src="https://emerald-dodi-5.tiiny.site/"
             className="w-full h-full"
             style={{ border: 'none' }}
           />
